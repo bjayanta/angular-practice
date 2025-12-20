@@ -1,0 +1,12 @@
+[submodule "component"]
+	path = component
+	url = https://github.com/bjayanta/component-practice
+[submodule "pipe"]
+	path = pipe
+	url = https://github.com/bjayanta/pipe-practice
+[submodule "route"]
+	path = route
+	url = https://github.com/bjayanta/route-practice
+[submodule "signal"]
+	path = signal
+	url = https://github.com/bjayanta/signal-practice
