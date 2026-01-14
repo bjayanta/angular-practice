@@ -133,3 +133,12 @@ Bonus (Advanced SaaS):
 - Multi-language
 - Multi-tenancy
 - RBAC (Role-based access control)
+
+
+## Git Submodule
+
+- Create new repository + push code
+- Clone repository with submodules
+> git clone --recurse-submodules https://github.com/bjayanta/ng-event-practice.git event
+- Add submodule to main repository
+> git submodule add https://github.com/bjayanta/ng-event-practice.git event
